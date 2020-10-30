@@ -1,6 +1,9 @@
 Tasques per Fer:
+MENUPHP
+DADESPHP
+VERIFPHP
+Tasques fetes:
 Mockup Enrique
 README  Marc
 INDEXPHP Adrián
-
-Tasques fetes:
+Cookies Marc
