@@ -1,6 +1,11 @@
 Tasques per Fer:
+Menu 
+dades
+verif
+admin
+jafet
+Tasques fetes:
 Mockup Enrique
 README  Marc
 INDEXPHP Adrián
-
-Tasques fetes:
+Cookies Marc
